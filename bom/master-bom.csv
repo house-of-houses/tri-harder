@@ -1,0 +1,26 @@
+Part,Value,Package,Quantity,Labs,Notes,Approx_Cost_USD
+Resistor,1k 1/4W,Axial,5,"08,10,11",Current sensing / expo emitter,0.50
+Resistor,4.7k 1/4W,Axial,5,"01,09,10",Voltage divider / waveshaper,0.50
+Resistor,10k 1/4W,Axial,20,All labs,Most common value -- buy extras,1.00
+Resistor,20k 1/4W,Axial,5,"03,various",Op-amp feedback,0.50
+Resistor,22k 1/4W,Axial,3,"01,09",Divider ratios / waveshaper,0.30
+Resistor,47k 1/4W,Axial,5,"05,11",Schmitt trigger / output buffers,0.50
+Resistor,100k 1/4W,Axial,10,"02,04,08,10,11",CV scaling / expo converter,1.00
+Resistor,1M 1/4W,Axial,3,"04,11",Integrator bleed / bias,0.30
+Resistor (tempco),1k PTC 3300ppm/K,Axial,1,"08,10",Expo converter temperature compensation,5.00
+Capacitor (ceramic),100nF / 0.1uF,Ceramic disc or MLCC,10,All op-amp labs,Power bypass -- place close to IC pins,1.00
+Capacitor (film),100nF / 0.1uF,Film (polyester),5,"02,04,06",Timing / integrator feedback,2.00
+Capacitor (film),10nF,Film or C0G ceramic,3,"07,10",VCO timing capacitor,1.50
+Capacitor (polystyrene),1nF,Polystyrene or C0G,2,11,CEM3340 timing -- low TC critical,2.00
+Op-amp,TL072 dual,DIP-8,4,"03-11",Workhorse synth op-amp -- buy spares,3.00
+Transistor (NPN),2N3904,TO-92,6,"07-10",Expo pair + waveshaper + current steering,1.50
+Transistor (PNP),2N3906,TO-92,2,"07,10",Current steering complement to 2N3904,0.50
+Diode (signal),1N4148,DO-35,10,09,Waveshaper clipping network,1.00
+IC (VCO),AS3340 or V3340,DIP-16,1,11,CEM3340-compatible VCO chip,8.00
+DIP socket,8-pin,DIP-8,4,"03-11",For TL072 -- never solder ICs directly,1.00
+DIP socket,16-pin,DIP-16,1,11,For AS3340,0.50
+Trimpot,10k 10-turn,Bourns 3296 or similar,3,"07,10,11",Coarse freq / HF trim,4.50
+Trimpot,100k 10-turn,Bourns 3296 or similar,2,"10,11",V/Oct trim,3.00
+Potentiometer,10k linear,Panel mount or breadboard,2,"09,11",PWM width / manual frequency,2.00
+Breadboard,Full-size 830 tie-points,--,1,All labs,Get a good quality one with power rails,8.00
+Jumper wire kit,Assorted lengths,--,1,All labs,Pre-cut kit plus some longer ones,6.00
