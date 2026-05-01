@@ -79,7 +79,10 @@ tri-harder/
 - [Moritz Klein -- VCO series (YouTube)](https://www.youtube.com/playlist?list=PLHeL0JWdJLvT1PAqW4TtvxtRoXyk741WM)
 - [Aaron Lanterman -- Lantertronics ECE lectures](https://lanterman.ece.gatech.edu/)
 - [Rene Schmitz -- Expo converter tutorial](https://www.schmitzbits.de/expo_tutorial/)
-- [Electric Druid -- CEM3340 article](https://electricdruid.net/cem3340-vco-circuits/)
-- [Erica Synths -- mki x es.EDU VCO manual](https://www.ericasynths.lv/media/VCO_MANUAL_v2.pdf)
+- [Electric Druid -- CEM3340 article](https://electricdruid.net/cem3340-vco-voltage-controlled-oscillator-designs/)
+- [Erica Synths -- mki x es.EDU VCO manual](https://web.archive.org/web/20241014024000/https://www.ericasynths.lv/media/VCO_MANUAL_v2.pdf)
 - [North Coast Synthesis -- VCO design notes](https://northcoastsynthesis.com/news/)
 - [Kassutronics -- VCO build](https://kassu2000.blogspot.com/2018/06/vco.html)
+
+A broader curated reading and viewing list, ordered by phase to match the
+labs, lives in [docs/resources.md](docs/resources.md).
